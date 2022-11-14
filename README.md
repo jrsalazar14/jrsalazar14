@@ -19,7 +19,6 @@ In my free time I like learning about:
 ## Let's connect!
 :man_office_worker: My [LinkedIn](https://www.linkedin.com/in/jose-salazar-garcia-b78467173/)
 
-:bird: My [Twitter](https://twitter.com/JoseSPanda)
 
 <!---
 jrsalazar14/jrsalazar14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
