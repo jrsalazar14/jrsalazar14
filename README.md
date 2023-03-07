@@ -2,11 +2,11 @@
 
 My name is Jose Salazar! I studied Computer Systems Engineering and currently work as a QA Engineer.
 I have worked with:
-- FastAPI Python
+- Cypress
 - TestRail
 - Robot Framework
 - Python
-- Oracle SQL Dev
+- Snowflake
 
 
 ## What I like
